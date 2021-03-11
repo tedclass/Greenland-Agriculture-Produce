@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "Greenland_Agriculture_ProduceContextConnection"
+    }
+  }
+}
